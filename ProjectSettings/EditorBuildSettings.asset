@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Overworld/H8.unity
+    guid: fc1503b7441c82440b720fd9c0fa762b
+  - enabled: 1
+    path: Assets/Scenes/Caves/SwordCave.unity
+    guid: ee3313c4e21aebd4a9b8812b984b13c7
+  - enabled: 1
+    path: Assets/Scenes/Overworld/H7.unity
+    guid: 9fbd74457cdebcb4aa3578203f262bd5
+  - enabled: 1
+    path: Assets/Scenes/Overworld/I8.unity
+    guid: 673a2b78af7720140bc1e97abd65e9b3
+  m_configObjects: {}
