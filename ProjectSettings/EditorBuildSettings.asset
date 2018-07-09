@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Overworld/I8.unity
     guid: 673a2b78af7720140bc1e97abd65e9b3
+  - enabled: 1
+    path: Assets/Scenes/Overworld/G8.unity
+    guid: f2dffeddd118b3f48a704b6d1f1274fc
   m_configObjects: {}
